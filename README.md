@@ -75,7 +75,6 @@ This project was built to practice:
 * DOM manipulation
 * Working with Google APIs
 * Integrating AI into a web application
-  ![Uploading AI image 1.png…]()
 
 
 ## Author
